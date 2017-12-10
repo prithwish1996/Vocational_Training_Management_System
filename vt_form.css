@@ -1,0 +1,134 @@
+.form-group{
+	margin-left: 10%;
+}
+#in1 {
+    margin-left: 25%;
+}
+#in2 {
+    margin-left: 16.5%;
+}
+#in3 {
+    margin-left: 23.5%;
+}
+#in4 {
+    margin-left: 18%;
+}
+#in5 {
+    margin-left: 12.7%;
+}
+#in6 {
+    margin-left: 16.5%;
+}
+#in7 {
+    margin-left: 25.5%;
+}
+#in8 {
+    margin-left: 27.8%;
+}
+
+#in9 {
+    margin-left: 19.5%;
+}#in10 {
+    margin-left: 21.3%;
+}
+#in11 {
+    margin-left: 23.7%;
+}
+#in12 {
+    margin-left: 16.9%;
+}
+#in13 {
+    margin-left: 20%;
+}
+#in14 {
+    margin-left: 18.7%;
+}
+#in15 {
+    margin-left: 21%;
+}
+
+#name, #branch, #aot, #fromm, #too, #tbsa, #ref{
+	width: 100%;
+}
+#edit_page_table{
+	width: 210%;
+}
+/*#but1{
+	width : 20%;
+
+}*/
+#but1class{
+	width : 20%;
+	margin-top: 10%;
+	margin-left: 33%;
+	
+}
+
+#div1{
+	margin-left: 1%;
+}
+#print_button{
+	margin-top: 2%;
+	margin-left: 45%;
+	background-color:#2938D4;
+}
+#pass,#user{
+	-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+
+}
+#log{
+	background-color:#2938D4;
+	width: 10%;
+	height: 7%;
+}
+#but2{
+	width: 10%;
+	padding: 0.5%;
+	margin-left: 17%;
+
+}
+#login_form{
+	padding-top: 12%;
+	padding-left: 20%;
+}
+.custom {
+    width: 40% !important;
+}
+#epd{
+	width: 100%;
+}
+
+/*tr{
+	height: auto;
+
+}
+table{
+	font-size: 12px;
+	size: 2%;
+}*/
+tr:nth-child(even) {background: #CCC}
+/*tr:nth-child(odd) {background: #C4CDD3  }*/
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+}
+
+.pagination a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+#developer {
+    text-decoration: none; 
+    color: black; 
+}

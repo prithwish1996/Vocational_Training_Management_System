@@ -1,0 +1,67 @@
+.nav-tabs{
+	background-color:#2938D4;
+	padding-top: 0.3%;
+	padding-bottom: 0.3%;
+
+}
+#logo{
+	height: 30%;
+	width: 30%;
+}
+#text1{
+	margin-left: 35%;
+	margin-top: -5%;
+	font-weight: bolder;
+	font-size: 18px;
+}
+#text2{
+	margin-left: 30%;
+	
+	font-weight: bolder;
+	font-size: 18px;
+}
+#satyamev{
+	margin-top: -6.5%;
+}
+#header1{
+	margin-bottom: -1%;
+	margin-top: 1%;
+}
+.btn-default{
+	margin-left: 0.5%;
+}
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+	background-color: #f5f5f5;
+}
+body {
+	height: 100%;
+	min-height: 100%;
+}
+
+footer{
+	position:fixed;
+	height:50px;
+	background-color: #D0E0EC;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	margin-bottom:0px;
+	width: 100%;
+	padding-top: 1%;
+}
+body{
+	/*margin-bottom:50px;*/
+}
+width: 75%;
+position: fixed;
+left: 50%;
+margin-left: -37.5%;
+#developer {
+    text-decoration: none; 
+    color: black; 
+}
